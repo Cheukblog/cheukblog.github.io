@@ -8,13 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Dec 2022 12:59:46 +0000</lastBuildDate><atom:link href="https://cheukblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post!</title>
+      <title>The creation of this blog</title>
       <link>https://cheukblog.github.io/posts/myfirstpost/</link>
       <pubDate>Tue, 13 Dec 2022 12:59:46 +0000</pubDate>
       
       <guid>https://cheukblog.github.io/posts/myfirstpost/</guid>
-      <description>Testing! This blog was created by following this great tutorial: https://www.youtube.com/watch?v=LIFvgrRxdt4.
-print(&amp;#34;Hello World!&amp;#34;) </description>
+      <description>Testing! This blog was created by following this great tutorial: https://www.youtube.com/watch?v=LIFvgrRxdt4. It was insightful to see how github submodules can be used to seamlessly host sites off github pages, and how easy it is to create nice looking blogs with hugo.
+Note that I will date posts before this to match when I worked on the relevant projects, but they will have actually been written after this date.
+Thanks for reading, and I hope everyone will enjoy Cheukblog.</description>
     </item>
     
   </channel>
