@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Cheukblog</title>
-    <link>https://cheuktingchan.github.io/posts/</link>
+    <link>https://cheukblog.github.io/posts/</link>
     <description>Recent content in Posts on Cheukblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 12:59:46 +0000</lastBuildDate><atom:link href="https://cheuktingchan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 12:59:46 +0000</lastBuildDate><atom:link href="https://cheukblog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The creation of this blog</title>
-      <link>https://cheuktingchan.github.io/posts/myfirstpost/</link>
+      <link>https://cheukblog.github.io/posts/myfirstpost/</link>
       <pubDate>Tue, 13 Dec 2022 12:59:46 +0000</pubDate>
       
-      <guid>https://cheuktingchan.github.io/posts/myfirstpost/</guid>
+      <guid>https://cheukblog.github.io/posts/myfirstpost/</guid>
       <description>Testing! This blog was created by following this great tutorial: https://www.youtube.com/watch?v=LIFvgrRxdt4. It was insightful to see how github submodules can be used to seamlessly host sites off github pages, and how easy it is to create nice looking blogs with hugo.
 Note that I will date posts before this to match when I worked on the relevant projects, but they will have actually been written after this date.
 Thanks for reading, and I hope everyone will enjoy Cheukblog.</description>
