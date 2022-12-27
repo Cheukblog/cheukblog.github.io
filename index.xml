@@ -13,7 +13,7 @@
       <pubDate>Tue, 13 Dec 2022 12:59:46 +0000</pubDate>
       
       <guid>https://cheukblog.github.io/posts/myfirstpost/</guid>
-      <description>Testing! This blog was created by following this great tutorial: https://www.youtube.com/watch?v=LIFvgrRxdt4. It was insightful to see how github submodules can be used to seamlessly host sites off github pages, and how easy it is to create nice looking blogs with hugo. I created an organisation called Cheukblog so that I can have the URL of the blog: &amp;ldquo;cheukblog.github.io&amp;rdquo;. All this was done in around 30 minutes, this is the best way to create a simplistic blog to document my learnings quickly.</description>
+      <description>Testing! This blog was created by following this great tutorial: https://www.youtube.com/watch?v=LIFvgrRxdt4. It was insightful to see how github submodules can be used to seamlessly host sites off github pages, and how easy it is to create nice looking blogs with Hugo. I created an organisation called Cheukblog so that I can have the URL of the blog: &amp;ldquo;cheukblog.github.io&amp;rdquo;. All this was done in around 30 minutes, great for a simplistic blog.</description>
     </item>
     
   </channel>
