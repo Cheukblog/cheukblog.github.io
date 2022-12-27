@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Cheukblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 12:59:46 +0000</lastBuildDate><atom:link href="https://cheukblog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 00:39:46 +0000</lastBuildDate><atom:link href="https://cheukblog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Project: Saiyan Lifts Tracker</title>
+      <link>https://cheukblog.github.io/posts/saiyanlifts/</link>
+      <pubDate>Mon, 26 Dec 2022 00:39:46 +0000</pubDate>
+      
+      <guid>https://cheukblog.github.io/posts/saiyanlifts/</guid>
+      <description>The Idea After brainstorming for a while for a project that would be very useful to my day to day life but not overly ambitious, I came up with the idea of a mobile workout tracker. The apps available now are too bloated and overly complicated for my needs, and often quite slow in saving workouts. Because of these issues my friends and I resort to using notes apps to manually write down exercises done, since it is simply faster.</description>
+    </item>
+    
     <item>
       <title>The creation of this blog</title>
       <link>https://cheukblog.github.io/posts/myfirstpost/</link>
